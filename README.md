@@ -1,5 +1,8 @@
 # Flatiron Phase 3 Project - Telco Co. Customer Churn Predictive Classification Model
 
+## Medium Blog Post - Towards Data Science
+For a narrative summary and key insights on this project, please read my blog post [Predict Customer Churn With Precision][3] on Medium.
+
 ## Business Problem
 Telco Co. wants to deploy customer retention strategies across systems and business processes to reduce customer churn which is currently running as 26.7% of customers. Business requirements include:
 
@@ -24,4 +27,5 @@ Below is a list of the contents of this repository - instructions for using them
 
 [1]: <https://github.com/cutterback/p03-telco-churn-model/blob/98e4c3340c17e70fb3b4714a2a721c58affb8c15/Customer_Churn_Classification.pdf> "Customer Churn Predictive Project"
 [2]: <https://github.com/cutterback/p03-telco-churn-model/blob/98e4c3340c17e70fb3b4714a2a721c58affb8c15/Telco-Churn-Classification-Model.ipynb> "Jupyter Notebook Telco Customer Churn Prediction Model" 
+[3]: <https://towardsdatascience.com/predict-customer-churn-with-precision-56932ae0e5e3?sk=3c42d8b0df41d75270a14d7aab819dd7> "Towards Data Science Article - Predict Customer Churn With Precision" 
 
